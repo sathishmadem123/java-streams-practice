@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 47:
 Find duplicate characters in a string.
 */

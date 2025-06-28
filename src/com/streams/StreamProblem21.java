@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 21:
 Find the frequency of each character in a string using streams.
 */

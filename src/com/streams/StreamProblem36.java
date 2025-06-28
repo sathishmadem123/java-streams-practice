@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 36:
 Create a frequency map of word lengths.
 */

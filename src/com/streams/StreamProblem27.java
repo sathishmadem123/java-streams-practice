@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 27:
 Convert a list of integers into a map where key = number, value = square of number.
 */

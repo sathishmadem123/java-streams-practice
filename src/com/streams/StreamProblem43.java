@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 43:
 Find the second-highest number in a list.
 */

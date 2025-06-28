@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 24:
 Filter and collect only distinct elements starting with a specific prefix.
 */

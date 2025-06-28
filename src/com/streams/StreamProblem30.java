@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 30:
 Find the most frequent element in a list.
 */

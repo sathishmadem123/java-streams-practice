@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 46:
 Partition numbers into prime and non-prime.
 */

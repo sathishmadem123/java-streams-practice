@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 29:
 Partition a list of numbers into odd and even numbers.
 */

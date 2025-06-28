@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 44:
 Check if any string in the list is a palindrome.
 */

@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 32:
 Convert a list of strings into a map with key = string, value = length.
 */

@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 39:
 Get a comma-separated string of all uppercase names.
 */

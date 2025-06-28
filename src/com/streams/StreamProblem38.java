@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 38:
 Get summary statistics of a list of integers.
 */

@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 35:
 Find words that occur only once in the list.
 */

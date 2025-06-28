@@ -1,4 +1,5 @@
-package com.streams;/*
+package com.streams;
+/*
 Problem 42:
 Convert a list of strings to a single string with unique characters only.
 */
